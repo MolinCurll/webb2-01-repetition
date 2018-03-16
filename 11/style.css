@@ -1,0 +1,17 @@
+ol{
+
+    list-style: upper-alpha;
+    color: olivedrab;
+    height: 20px;
+    font-size: 20px;
+}
+ul{
+
+    color: orange;
+    
+}
+
+ul{
+
+    margin: 5px;
+}

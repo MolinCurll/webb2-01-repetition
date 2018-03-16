@@ -1,0 +1,10 @@
+h1::first-letter{
+
+    color: red;
+}
+
+h1{
+    font-family: arial,sans-serif;
+
+    color: blue;
+}
